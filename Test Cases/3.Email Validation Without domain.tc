@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Testing for some invalid emails with cases like: without @, without(.), without domain, without alphabets before @</description>
+   <name>3.Email Validation Without domain</name>
+   <tag>Register</tag>
+   <comment></comment>
+   <testCaseGuid>96e2b3c5-06bc-406e-ad4e-83edd3cf4d26</testCaseGuid>
+</TestCaseEntity>

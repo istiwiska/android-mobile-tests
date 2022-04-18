@@ -16,12 +16,27 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'androidapp/APIDemos.apk'</initValue>
+      <initValue>'androidapp/SampleAndroidAppLoginTest_v4.0.apk'</initValue>
       <name>G_AndroidApp</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
       <initValue>5</initValue>
       <name>G_ShortTimeOut</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>G_Email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>G_Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Screenshot/'</initValue>
+      <name>G_Screenshot</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

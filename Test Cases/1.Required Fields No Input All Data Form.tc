@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check all required fields by not entering the data</description>
+   <name>1.Required Fields No Input All Data Form</name>
+   <tag>Register</tag>
+   <comment></comment>
+   <testCaseGuid>801cd9fd-fee5-46ed-aab2-d3a03f2aa30f</testCaseGuid>
+</TestCaseEntity>
